@@ -1,0 +1,29 @@
+.devitem{
+    display: inline-grid;
+    text-align: center;
+    font-size: 1rem ;
+}
+.devitem i{
+    font-size: 3rem;
+}
+.devitem img{
+    height: 50px;
+    margin: auto ;
+}
+
+.depsi-sdsi{
+    margin-bottom: 6rem ;
+    text-align: center;
+    font-size: 30px ;
+}
+
+section#about{
+	padding-top: 0rem !important;
+}
+
+h1.my-name{
+	font-family: 'Montserrat', sans-serif;
+    font-size: 62px;
+    font-weight: 300;
+    line-height: 3rem;
+}
